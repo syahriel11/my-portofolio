@@ -71,7 +71,7 @@ const ProjectDetails = () => {
     );
   }
 
-  const projectUrl = `https://syahriel-portofolio.vercel.app/project/${toSlug(project.title)}`;
+  const projectUrl = `https://my-portofolio-syahriel.vercel.app/project/${toSlug(project.title)}`;
 
   return (
     <>

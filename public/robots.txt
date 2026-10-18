@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://syahriel-portofolio.vercel.app/sitemap.xml
+Sitemap: https://my-portofolio-syahriel.vercel.app/sitemap.xml

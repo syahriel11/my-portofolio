@@ -120,10 +120,10 @@ const Home = () => {
         <title>Muhammad Syahriel Alghifari | Portofolio</title>
         <meta name="description" content="Website resmi Muhammad Syahriel Alghifari. Aku berfokus pada pengembangan teknologi yang tidak hanya fungsional, tetapi juga menghadirkan pengalaman digital yang menarik dan berdampak." />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://syahriel-portofolio.vercel.app/" />
+        <link rel="canonical" href="https://my-portofolio-syahriel.vercel.app/" />
         <meta property="og:title" content="Muhammad Syahriel Alghifari | Portofolio" />
         <meta property="og:description" content="Website resmi dan portofolio Muhammad Syahriel Alghifari." />
-        <meta property="og:url" content="https://syahriel-portofolio.vercel.app/" />
+        <meta property="og:url" content="https://my-portofolio-syahriel.vercel.app/" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
@@ -131,7 +131,7 @@ const Home = () => {
             "@type": "Person",
             "name": "Muhammad Syahriel Alghifari",
             "jobTitle": "Junior Developer",
-            "url": "https://syahriel-portofolio.vercel.app",
+            "url": "https://my-portofolio-syahriel.vercel.app",
             "sameAs": [
               "https://github.com/syahriel11",
               "https://www.linkedin.com/in/muhammad-syahriel-alghifari-430738432",
