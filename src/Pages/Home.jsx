@@ -19,8 +19,10 @@ const SOCIAL_LINKS = [
 
 const HeroTitle = memo(() => (
   <div className="space-y-1" data-aos="fade-up" data-aos-delay="400">
+    <h1 className="text-sm sm:text-base font-semibold text-blue-400 tracking-widest uppercase mb-1">
+      Muhammad Syahriel Alghifari
+    </h1>
     <div
-
       className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-none tracking-tight grad-vi"
       style={{ fontFamily: "var(--font-display)" }}
     >
@@ -118,10 +120,10 @@ const Home = () => {
         <title>Muhammad Syahriel Alghifari | Portofolio</title>
         <meta name="description" content="Website resmi Muhammad Syahriel Alghifari. Aku berfokus pada pengembangan teknologi yang tidak hanya fungsional, tetapi juga menghadirkan pengalaman digital yang menarik dan berdampak." />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://github.com/syahriel11" />
+        <link rel="canonical" href="https://syahriel-portofolio.vercel.app/" />
         <meta property="og:title" content="Muhammad Syahriel Alghifari | Portofolio" />
         <meta property="og:description" content="Website resmi dan portofolio Muhammad Syahriel Alghifari." />
-        <meta property="og:url" content="https://github.com/syahriel11" />
+        <meta property="og:url" content="https://syahriel-portofolio.vercel.app/" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
@@ -129,7 +131,7 @@ const Home = () => {
             "@type": "Person",
             "name": "Muhammad Syahriel Alghifari",
             "jobTitle": "Junior Developer",
-            "url": "https://github.com/syahriel11",
+            "url": "https://syahriel-portofolio.vercel.app",
             "sameAs": [
               "https://github.com/syahriel11",
               "https://www.linkedin.com/in/muhammad-syahriel-alghifari-430738432",
